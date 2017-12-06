@@ -1,4 +1,4 @@
-## Phoenix++
+## Phoenix++ ##
 
 Phoenix++ is a C++ reimplementation of Phoenix 2.
 
